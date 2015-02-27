@@ -1,7 +1,7 @@
 # scrapy_visions
 simple scraper on visions.ca products
 
-output.json contains all the products
+output.json contains all the products, some prodcuts don't have prices, but that is because they are only available in-store
 
 i remove duplicate product ids in the pipeline
 
